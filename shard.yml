@@ -1,0 +1,9 @@
+name: docs-issue
+version: 0.1.0
+
+authors:
+  - Vlad Faust <mail@vladfaust.com>
+
+crystal: 0.24.1
+
+license: MIT
